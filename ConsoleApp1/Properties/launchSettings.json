@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StandardNetTests": {
+      "commandName": "Project",
+      "commandLineArgs": "BinaryTree"
+    }
+  }
+}
